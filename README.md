@@ -64,7 +64,7 @@ need to define and train my own deep learning models in PyTorch!</p>
 <p>Convolutional networks have achieved state of the art results in computer vision. These
 types of networks can detect and identify objects in images. Here I learnt how to build
 convolutional networks in PyTorch.</p>
-<p>Here I also created the <b>second project</b> (<a href="#">DOG-BREED CLASSIFIER</a>), where i built a convolutional network to classify dog breeds in pictures.</p>
+<p>Here I also created the <b>second project</b> (<a href="https://github.com/ravingalaxy/ML-Deep-Learning/tree/master/Projects/Project_2-Dog_Breed_Classifier">DOG-BREED CLASSIFIER</a>), where i built a convolutional network to classify dog breeds in pictures.</p>
 <br>
 
 <div align="center"><img src="./images/cnn.PNG">
@@ -173,7 +173,7 @@ and respond to user input.</p>
 <br>
 1. <a href="https://github.com/ravingalaxy/ML-Deep-Learning/tree/master/Projects/Project_1-Predicting_Bike_Sharing_Patterns">PREDICTING BIKE-SHARING PATTERNS</a>
 <br>
-2. <a href="#">DOG-BREED CLASSIFIER</a>
+2. <a href="https://github.com/ravingalaxy/ML-Deep-Learning/tree/master/Projects/Project_2-Dog_Breed_Classifier">DOG-BREED CLASSIFIER</a>
 <br>
 3. <a href="#">GENERATE TV SCRIPTS</a>
 <br>
