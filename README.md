@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://graduation.udacity.com/confirm/YCJ4DDMJ"><img src="./images/Udacity.png"></a>
+    <a href="https://graduation.udacity.com/confirm/YCJ4DDMJ" target="_blank"><img src="./images/Udacity.png"></a>
     <h1>Udacity Deep Learning Nanodegree</h1>
     <p>Become an expert in neural networks, and learn to implement them using the deep learning framework PyTorch. Build convolutional networks for image recognition, recurrent networks for sequence generation, generative adversarial networks for image generation, and learn how to deploy models accessible from a website. - <a href="https://www.udacity.com/course/deep-learning-nanodegree--nd101">Source</a></p>
     <p>The Deep Learning Nanodegree program is divided into five parts, giving a understanding of deep learning, and covering some of the major topics.
