@@ -29,7 +29,7 @@ clear where deep learning fits into the broader picture of machine learning tech
 python. I covered the algorithms used to train networks such as gradient descent and
 backpropagation.</p>
 
-<p>The <b>first project</b> (<a href="#">PREDICTING BIKE-SHARING PATTERNS</a>) is also created in this part. In this project, I predicted bike ridership
+<p>The <b>first project</b> (<a href="https://github.com/ravingalaxy/ML-Deep-Learning/tree/master/Projects/Project_1-Predicting_Bike_Sharing_Patterns">PREDICTING BIKE-SHARING PATTERNS</a>) is also created in this part. In this project, I predicted bike ridership
 using a simple neural network.</p>
 <br>
 <div align="center"><img src="./images/neural.PNG">
@@ -171,7 +171,7 @@ and respond to user input.</p>
 </p>
 <p>Here are the five projects, created by me:</p>
 <br>
-1. <a href="#">PREDICTING BIKE-SHARING PATTERNS</a>
+1. <a href="https://github.com/ravingalaxy/ML-Deep-Learning/tree/master/Projects/Project_1-Predicting_Bike_Sharing_Patterns">PREDICTING BIKE-SHARING PATTERNS</a>
 <br>
 2. <a href="#">DOG-BREED CLASSIFIER</a>
 <br>
