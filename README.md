@@ -130,7 +130,7 @@ decoder generates the answer: "I am good".</small>
 
 <p>
 The inventor of GANs, Ian Goodfellow, will show me how GANs work and how to
-implement them. Then, in the <b>fourth project</b> (<a href="#">GENERATE FACES</a>), I used a deep convolutional GAN to
+implement them. Then, in the <b>fourth project</b> (<a href="https://github.com/ravingalaxy/ML-Deep-Learning/tree/master/Projects/Project_4-Generate_Face">GENERATE FACES</a>), I used a deep convolutional GAN to
 generate completely new images of human faces.
 </p>
 <br>
@@ -177,7 +177,7 @@ and respond to user input.</p>
 <br>
 3. <a href="https://github.com/ravingalaxy/ML-Deep-Learning/tree/master/Projects/Project_3-TV_Script_Generation">GENERATE TV SCRIPTS</a>
 <br>
-4. <a href="#">GENERATE FACES</a>
+4. <a href="https://github.com/ravingalaxy/ML-Deep-Learning/tree/master/Projects/Project_4-Generate_Face">GENERATE FACES</a>
 <br>
 5. <a href="#">DEPLOYING A SENTIMENT ANALYSIS MODEL</a>
 <br>
