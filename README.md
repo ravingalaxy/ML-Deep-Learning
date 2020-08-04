@@ -100,7 +100,7 @@ character by character.</p>
 <p>Then, I learnt about word embeddings and implement the <a href="https://en.wikipedia.org/wiki/Word2vec">Word2Vec</a> model, a network that can learn about semantic relationships between words. These are used to increase the efficiency of networks when I am processing text.</p>
 <p>I combined embeddings and an RNN to predict the sentiment of movie reviews, an
 example of common tasks in natural language processing.</p>
-<p>In the <b>third project</b> (<a href="#">GENERATE TV SCRIPTS</a>), I used what I had learnt here to generate new TV scripts
+<p>In the <b>third project</b> (<a href="https://github.com/ravingalaxy/ML-Deep-Learning/tree/master/Projects/Project_3-TV_Script_Generation">GENERATE TV SCRIPTS</a>), I used what I had learnt here to generate new TV scripts
 from provided, existing scripts.</p>
 <br>
 
@@ -175,7 +175,7 @@ and respond to user input.</p>
 <br>
 2. <a href="https://github.com/ravingalaxy/ML-Deep-Learning/tree/master/Projects/Project_2-Dog_Breed_Classifier">DOG-BREED CLASSIFIER</a>
 <br>
-3. <a href="#">GENERATE TV SCRIPTS</a>
+3. <a href="https://github.com/ravingalaxy/ML-Deep-Learning/tree/master/Projects/Project_3-TV_Script_Generation">GENERATE TV SCRIPTS</a>
 <br>
 4. <a href="#">GENERATE FACES</a>
 <br>
