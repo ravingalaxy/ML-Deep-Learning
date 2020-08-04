@@ -158,7 +158,7 @@ and respond to user input.</p>
 </div>
 <br>
 
-<p>You'lI also learnt to monitor a model using PyTorch and <a href="https://aws.amazon.com/sagemaker/">Amazon's SageMaker</a>. In the <b>fifth project</b> (<a href="#">DEPLOYING A SENTIMENT ANALYSIS MODEL</a>), I deployed my own PyTorch sentiment analysis model and create a gateway for accessing this model from a website.</p>
+<p>You'lI also learnt to monitor a model using PyTorch and <a href="https://aws.amazon.com/sagemaker/">Amazon's SageMaker</a>. In the <b>fifth project</b> (<a href="https://github.com/ravingalaxy/ML-Deep-Learning/tree/master/Projects/Project_5-Deploying_Sentiment_Analysis_Model">DEPLOYING A SENTIMENT ANALYSIS MODEL</a>), I deployed my own PyTorch sentiment analysis model and create a gateway for accessing this model from a website.</p>
 <br>
 <hr style="height:3px">
 <br>
@@ -179,5 +179,5 @@ and respond to user input.</p>
 <br>
 4. <a href="https://github.com/ravingalaxy/ML-Deep-Learning/tree/master/Projects/Project_4-Generate_Face">GENERATE FACES</a>
 <br>
-5. <a href="#">DEPLOYING A SENTIMENT ANALYSIS MODEL</a>
+5. <a href="https://github.com/ravingalaxy/ML-Deep-Learning/tree/master/Projects/Project_5-Deploying_Sentiment_Analysis_Model">DEPLOYING A SENTIMENT ANALYSIS MODEL</a>
 <br>
